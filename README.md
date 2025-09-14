@@ -1,4 +1,4 @@
-# 🎉 **Bingo Game Project** 🎉
+# **Bingo Game Project** 
 
 ## 📝 **Overview**
 Welcome to the Bingo Game project! This project demonstrates a simple implementation of the classic Bingo game, providing an interactive experience for players. Players can purchase Bingo cards, and the system randomly selects numbers for the game. The game supports different win modes, such as **4 corners**, **diagonals**, or **both**. It checks for winners by validating the numbers marked on each card, and announces the winner once all required numbers are drawn. This project is a great way to showcase your understanding of **Java** and object-oriented principles, such as the use of arrays, **ArrayLists**, loops, and more.
